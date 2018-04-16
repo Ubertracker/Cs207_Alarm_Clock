@@ -24,9 +24,9 @@ Requirements and Materials
 The libraries required for this project are as followed:
 
 Libraries:
-* DS1307RTC-
-* LedControl-
-* Time- 
+* DS1307RTC- https://github.com/PaulStoffregen/DS1307RTC
+* LedControl- https://github.com/wayoda/LedControl
+* Time- https://github.com/PaulStoffregen/Time
 
 The Materials needed for this project are as followed:
 
@@ -87,3 +87,9 @@ https://www.hackster.io/lagsilva/digital-and-binary-clock-with-two-led-matrix-an
 
 (2) lukecyca - Created the tetris theme used during when the alarm is on
 https://github.com/lukecyca/TetrisThemeArduino
+
+PaulStoffregen - Created the DS1307 and the Time library for use in this code.
+https://github.com/PaulStoffregen/DS1307RTC & https://github.com/PaulStoffregen/Time
+
+wayoda - Created the LEDControl Library used in this code.
+https://github.com/wayoda/LedControl
