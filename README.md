@@ -7,4 +7,4 @@ This clock makes use of a Tiny I2C RTC Module and a Maxim Max 7219 Led Matrix. I
 
 ![alt text][pic1]
 
-[pic1]:Cs207_Alarm_Clock/img/ClockFront.jpg "Clock Front View"
+[pic1]: https://github.com/Ubertracker/Cs207_Alarm_Clock/blob/master/img/ClockFront.jpg "Clock Front View"
